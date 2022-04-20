@@ -3,9 +3,9 @@
 -->
 
 ### Hi there! Blink twice if stalking 😉😉 (WiP)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=charles8ff&count_private=true&theme=tokyonight&border_radius=18px" alt="charles8ff's GitHub Stats" width="60%" img></img>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api?username=charles8ff&count_private=true&theme=tokyonight&border_radius=18px" alt="charles8ff's GitHub Stats" width="60%" ></img></a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles8ff&theme=tokyonight&hide=TeX" alt="Top Languages" width="35%" img></img>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charles8ff&theme=tokyonight&hide=TeX" alt="Top Languages" width="35%" ></img></a>
 
 <br/>
 <br/>
