@@ -19,9 +19,8 @@
 <br/>
 <br/>
 
-• Junior Fullstack Developer
 
-• He/Him 
+• Any pronouns 
 
 • Amateur coder, hardware enthusiast, videogame enjoyer and caffeine-blooded
 
